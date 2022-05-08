@@ -6,9 +6,6 @@
 
 <h2>🚀 Technologies</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
-
-<h2>✔ Finished project</h2>
-<p>You can test the site through this link: https://luan-calasans.github.io/LP-Bot-Discord/</p>
